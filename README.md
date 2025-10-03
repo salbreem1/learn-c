@@ -5,3 +5,4 @@ salim projects to learn c .
 ### salim 3
 hey 
 ## project 2 notes.
+salim edit it to add ar language .
